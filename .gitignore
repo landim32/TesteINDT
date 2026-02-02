@@ -1,0 +1,47 @@
+# Environment variables
+.env
+
+# Ignore appsettings local overrides
+**/appsettings.Local.json
+**/appsettings.*.Local.json
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User Secrets
+**/secrets.json
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Rider
+.idea/
+*.sln.iml
+
+# Docker volumes
+postgres_data/
