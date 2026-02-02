@@ -7,8 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropostaService.Api", "Prop
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Extra", "5 - Extra", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 	ProjectSection(SolutionItems) = preProject
-		digrama.png = digrama.png
 		init-db.sql = init-db.sql
+		diagrama.png = diagrama.png
 		prompt.md = prompt.md
 		README.md = README.md
 		Teste Técnico INDT - Arquitetura Hexagonal.pdf = Teste Técnico INDT - Arquitetura Hexagonal.pdf
